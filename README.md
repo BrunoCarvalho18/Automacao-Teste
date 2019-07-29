@@ -24,7 +24,12 @@ Nessa Pasta no projeto, vamos adicionar o Chromedriver e o Geckodriver
   
 ### Dependências:  
   
-  
+- Cucumber JVM https://github.com/cucumber/cucumber-jvm
+- Selenium https://github.com/SeleniumHQ/selenium
+- Cucumber Junit https://github.com/cucumber/cucumber-jvm/tree/master/junit
+- Junit 4 https://github.com/junit-team/junit4/wiki
+- Java Faker https://github.com/DiUS/java-faker
+- Extent Report https://github.com/anshooarora/extentreports-java
   
       
 
