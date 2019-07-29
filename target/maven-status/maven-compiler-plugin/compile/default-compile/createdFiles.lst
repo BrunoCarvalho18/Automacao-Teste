@@ -1,0 +1,7 @@
+br\com\pages\HomePage.class
+br\com\pages\TShirtPage.class
+br\com\core\BasePage.class
+br\com\core\DriverFactory.class
+br\com\steps\FluxoComprasSteps.class
+br\com\pages\AcountCreatePage.class
+br\com\pages\AuthenticationPage.class
