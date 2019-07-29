@@ -30,6 +30,12 @@ Nessa Pasta no projeto, vamos adicionar o Chromedriver e o Geckodriver
 - Junit 4 https://github.com/junit-team/junit4/wiki
 - Java Faker https://github.com/DiUS/java-faker
 - Extent Report https://github.com/anshooarora/extentreports-java
-  
+
+
+### Reports:  
+
+- Na Pasta Output e Na Pasta Screenshot, estão os reports.
+
+
       
 
