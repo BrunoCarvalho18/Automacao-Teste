@@ -36,6 +36,10 @@ Nessa Pasta no projeto, vamos adicionar o Chromedriver e o Geckodriver
 
 - Na Pasta Output e Na Pasta Screenshot, estão os reports.
 
+### Executando com Firefox e Chrome
+
+- Somente mudar na Feature de chrome para firefox.
+
 
       
 
