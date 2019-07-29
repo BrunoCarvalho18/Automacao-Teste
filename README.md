@@ -16,11 +16,11 @@ Nessa Pasta no projeto, vamos adicionar o Chromedriver e o Geckodriver
 
 ### Instalando as Dependências:
 
-Clicar no Projeto com o botão direito
-Clicar na Aba Maven
-Clicar na Aba Update Project
-Clicar no CheckBox Force Update of Snapshots/Realeses 
-Ele irá atualizar todas as dependências do pom.xml
+- Clicar no Projeto com o botão direito
+- Clicar na Aba Maven
+- Clicar na Aba Update Project
+- Clicar no CheckBox Force Update of Snapshots/Realeses 
+- Ele irá atualizar todas as dependências do pom.xml
   
   
   
