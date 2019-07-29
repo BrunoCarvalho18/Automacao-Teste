@@ -23,11 +23,11 @@ Clicar no CheckBox Force Update of Snapshots/Realeses
 Ele irá atualizar todas as dependências do pom.xml
 
 > <dependencies>
-  > <dependency>
-  > <groupId>com.aventstack</groupId>
-  > <artifactId>extentreports</artifactId>
-  > <version>3.1.1</version>  
-  > </dependency>
+> <dependency>
+> <groupId>com.aventstack</groupId>
+> <artifactId>extentreports</artifactId>
+> <version>3.1.1</version>  
+> </dependency>
 > </dependencies>  
   
   
