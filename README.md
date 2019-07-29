@@ -22,6 +22,7 @@ Nessa Pasta no projeto, vamos adicionar o Chromedriver e o Geckodriver
 - Clicar no CheckBox Force Update of Snapshots/Realeses 
 - Ele irá atualizar todas as dependências do pom.xml
   
+### Dependências:  
   
   
   
